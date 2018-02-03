@@ -1,2 +1,2 @@
-# bibleplan.github.io
-https://bibleplan.github.io
+# growinchrist.github.io
+https://growinchrist.github.io
